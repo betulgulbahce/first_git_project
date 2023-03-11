@@ -23,3 +23,10 @@
        *git commit -m "added my second java class"
        *git push
 
+5. ADDING SPECIFIC FILES
+   * Create 2 JAVA classes : MyThirdClass, MyFourthClass
+   * Create a commit with ONLY MyFourthClass
+       *git add "src/main/java/first_git_package/MyFourthClass.java" -->you can find it from "git status"
+       *git commit -m "adding fourth class"
+       *git push
+
