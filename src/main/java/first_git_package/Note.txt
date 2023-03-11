@@ -1,0 +1,8 @@
+****GIT DAY01****
+1. Create a project
+2. Create a GITHUB REPOSITORY
+   *go to GitHub
+   *Repositories>Create New Repositories> first_git_project
+3. Create a new Commit for the First Time
+   *git init
+
