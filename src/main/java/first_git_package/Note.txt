@@ -113,7 +113,6 @@ Create a class "MySeventhClass"
 create a new commit and push
     git add .
     git commit -m "message"
-    git push --set-upstream origin betul
 Then codes will be in the remote betul branch
 Then in GitHub expert or us will do:
     Pull Request(PR)(Us or Expert)
