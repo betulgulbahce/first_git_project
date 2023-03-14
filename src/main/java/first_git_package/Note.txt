@@ -11,7 +11,7 @@
    *git remote add origin https://github.com/betulgulbahce/first_git_project.git
    *git push -u origin main
 
-   ****Then your code should be pushed to github. REFRESH YOUR PAGE TO SEE THE CODE
+   ****Then your code should be pushed to GitHub. REFRESH YOUR PAGE TO SEE THE CODE
 
    Note: git status  ->  This is our friend. This can be used anytime to see the process
 
@@ -46,4 +46,86 @@
 
 NOTE: PULL BEFORE PUSH
       git pull -> git add . -> git commit -m "message" -> git push
+
+
+
+
+     ****************DAY 01 SUMMARY*************
+     Prerequisites:
+     -Git Install
+     -GitHub account
+     -Git Authentication(create token, add username and token, so your account verification is completed)
+
+
+     ***** First Time Git Push ******
+
+     Follow the instruction in our GitHub repository
+      git init
+      git add .
+      git commit -m "first commit"
+      git branch -M main
+      git remote add origin https://github.com/gizemKrol/first_git_project.git
+      git push -u origin main
+    *Note: If you get error, just google the error message....
+
+      ***** Second Time Git Push ******
+
+      git add .
+      git commit -m "any message"
+      git push
+
+
+
+      *****GIT PULL
+      git pull gets the latest GitHub code in our local
+      git pull = git fetch + git merge
+
+      *****CONFLICT
+      When we try to merge the code that are in - the SAME spot as with DIFFERENT codes -
+      *****How to Resolve conflict
+      Manually fix : remove the illegal characters(error messages)
+      create a new commit(add, commit)
+      then push
+
+      *****To minimize conflict, we can clone the project, add our new code quickly, then commit, then push
+      *****git clone https://github.com/betulgulbahce/first_git_project.git
+           add your codes
+           git add .
+           git commit -m
+           git push
+
+
+****GIT DAY02****-------------------------------------------------------------------------------------------
+
+BRANCHING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
