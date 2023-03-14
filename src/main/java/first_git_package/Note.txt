@@ -116,9 +116,9 @@ create a new commit and push
     git push --set-upstream origin betul
 Then codes will be in the remote betul branch
 Then in GitHub expert or us will do:
-    Pull Request(PR)
-    Then Code Review
-    Then Code Merge
+    Pull Request(PR)(Us or Expert)
+    Then Code Review(Expert)
+    Then Code Merge(Expert)
 
 
 
