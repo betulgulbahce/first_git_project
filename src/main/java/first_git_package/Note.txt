@@ -98,6 +98,28 @@ NOTE: PULL BEFORE PUSH
 ****GIT DAY02****-------------------------------------------------------------------------------------------
 
 BRANCHING
+git branch -a -> shows me all branch
+git branch betul -> creates betul branch
+git checkout betul -> switched to betul branch
+created a code: MySixthClass
+create a new commit and push
+    git add .
+    git commit -m "message"
+    git push --set-upstream origin betul
+Then codes will be in the remote betul branch
+
+***One more side branch flow
+Create a class "MySeventhClass"
+create a new commit and push
+    git add .
+    git commit -m "message"
+    git push --set-upstream origin betul
+Then codes will be in the remote betul branch
+Then in GitHub expert or us will do:
+    Pull Request(PR)
+    Then Code Review
+    Then Code Merge
+
 
 
 
